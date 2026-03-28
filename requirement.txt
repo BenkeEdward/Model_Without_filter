@@ -1,0 +1,10 @@
+fastapi>=0.135.2
+uvicord[standard]>=0.42.0
+torch>=2.11.0+cpu
+matplotlib>=3.10.8
+numpy>=2.2.6
+scikit_build_core>=0.12.2
+bcrypt>=5.0.0
+pyjwt>=2.12.1
+sqlalchemy>=2.0.48
+passlib>=1.7.4
